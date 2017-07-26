@@ -59,16 +59,7 @@
             <artifactId>aspectjrt</artifactId>
             <version>${aspectJ.version}</version>
         </dependency>
-        <dependency>
-            <groupId>org.aspectj</groupId>
-            <artifactId>aspectjweaver</artifactId>
-            <version>${aspectJ.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.aspectj</groupId>
-            <artifactId>aspectjtools</artifactId>
-            <version>${aspectJ.version}</version>
-        </dependency>
+
     </dependencies>
 
     <build>
