@@ -23,7 +23,7 @@
     <properties>
         <java.version>1.8</java.version>
         <aspectJ.version>1.8.10</aspectJ.version>
-        <log4j.version>2.7</log4j.version>
+        <log4j.version>2.8.2</log4j.version>
         <github.global.server>github</github.global.server>
         <github.maven-plugin>0.12</github.maven-plugin>
         <maven-jaxb2-plugin.version>0.13.1</maven-jaxb2-plugin.version>
